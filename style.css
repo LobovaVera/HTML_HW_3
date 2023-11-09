@@ -2,6 +2,13 @@
   margin: 0;
   padding: 0;
 }
+button {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+}
 .top {
   padding-top: 40px;
   padding-bottom: 96px;
